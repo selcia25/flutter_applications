@@ -19,7 +19,7 @@ This Flutter application checks if a given number is an Armstrong number.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/<your_username>/armstrong.git
+   git clone https://github.com/selcia25/armstrong.git
    ```
 
 2. Navigate into the project directory:
