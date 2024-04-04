@@ -1,16 +1,35 @@
-# armstrong
+# Armstrong Number Checker
 
-A new Flutter project.
+This Flutter application checks if a given number is an Armstrong number.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Input field to enter a number
+- Button to check if the number is Armstrong
+- Display result
 
-A few resources to get you started if this is your first Flutter project:
+## Usage
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Enter a number in the input field.
+2. Click the "Check Armstrong" button.
+3. The result will be displayed below the button.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/<your_username>/armstrong.git
+   ```
+
+2. Navigate into the project directory:
+
+   ```bash
+   cd armstrong
+   ```
+
+3. Run the application:
+
+   ```bash
+   flutter run
+   ```
